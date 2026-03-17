@@ -5,6 +5,7 @@ int main(){
     printf("Aluno: Luiz Salvador"); 
     printf("Aluno:Guilherme Santos");
     printf("Aluno: Caio Marinho");
+    printf("Aluno: Ricardo Tunes");
 
     return 0;
 }
