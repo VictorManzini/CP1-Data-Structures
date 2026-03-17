@@ -3,6 +3,7 @@
 int main(){
     printf("Aluno: Victor Manzini");
     printf("Aluno: Luiz Salvador"); 
+    printf("Aluno:Guilherme Santos");
 
     return 0;
 }
