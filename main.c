@@ -2,10 +2,12 @@
 
 int main(){
     printf("Aluno: Victor Manzini");
-    printf("Aluno: Luiz Salvador"); 
+    printf("\nAluno: Luiz Salvador\n"); 
     printf("Aluno:Guilherme Santos");
     printf("Aluno: Caio Marinho");
     printf("Aluno: Ricardo Tunes");
+
+
 
     return 0;
 }
