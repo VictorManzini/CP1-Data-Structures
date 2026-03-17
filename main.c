@@ -2,7 +2,7 @@
 
 int main(){
     printf("Aluno: Victor Manzini");
-    printf("\nAluno: Luiz Salvador\n"); 
+    printf("\nAluno: Luiz Salvador\n"); // Adicionado print f com o nome do aluno
     printf("Aluno:Guilherme Santos");
     printf("Aluno: Caio Marinho");
     printf("Aluno: Ricardo Tunes");
